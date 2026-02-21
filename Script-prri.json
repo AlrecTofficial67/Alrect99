@@ -2,15 +2,38 @@
   "users": {
     "XunicornbnX": {
       "role": "owner",
-      "premium": true
+      "premium": true,
+      "note": "Developer Script"
     },
-    "UserPremium1": {
+    "KINGS_FOR45": {
+      "role": "dev",
+      "premium": true,
+      "note": "Developer Utama"
+    },
+    "najmi270": {
+      "role": "owner",
+      "premium": true,
+      "note": "Owner PRRI"
+    },
+    "NamaUserPremium1": {
       "role": "premium",
-      "premium": true
+      "premium": true,
+      "note": "Member Premium"
     },
-    "FreeUser": {
+    "NamaUserVIP1": {
+      "role": "vip",
+      "premium": true,
+      "note": "Member VIP"
+    },
+    "FreeUser1": {
       "role": "free",
-      "premium": false
+      "premium": false,
+      "note": "User biasa"
+    },
+    "UserYangDiBan": {
+      "role": "banned",
+      "premium": false,
+      "note": "Melanggar aturan"
     }
   }
 }
