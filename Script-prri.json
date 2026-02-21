@@ -1,0 +1,16 @@
+{
+  "users": {
+    "XunicornbnX": {
+      "role": "owner",
+      "premium": true
+    },
+    "UserPremium1": {
+      "role": "premium",
+      "premium": true
+    },
+    "FreeUser": {
+      "role": "free",
+      "premium": false
+    }
+  }
+}
