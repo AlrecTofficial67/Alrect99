@@ -25,6 +25,11 @@
       "premium": true,
       "note": "Member VIP"
     },
+    "Asdd5644": {
+      "role": "vip",
+      "premium": true,
+      "note": "Member VIP"
+    },
     "FreeUser1": {
       "role": "free",
       "premium": false,
@@ -35,5 +40,7 @@
       "premium": false,
       "note": "Melanggar aturan"
     }
+  }
+}    }
   }
 }
