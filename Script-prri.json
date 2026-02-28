@@ -30,11 +30,23 @@
       "premium": true,
       "note": "Member VIP"
     },
+    "AKSESE123": {
+      "role": "vip",
+      "premium": true,
+      "note": "Member VIP"
+    },
     "FreeUser1": {
       "role": "free",
       "premium": false,
       "note": "User biasa"
     },
+    "UserYangDiBan": {
+      "role": "banned",
+      "premium": false,
+      "note": "Melanggar aturan"
+    }
+  }
+}    },
     "UserYangDiBan": {
       "role": "banned",
       "premium": false,
