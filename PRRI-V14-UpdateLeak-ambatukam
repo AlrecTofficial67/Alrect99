@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://prri-v14.vercel.app/lua/50b51f3ed6666b9ee70ab2c6"))()
+loadstring(game:HttpGet("https://protected-roblox-scripts.onrender.com/03fe122ad9f08626505cdd1e2eb357b9"))()
